@@ -10,3 +10,4 @@ pdfplumber
 seaborn
 ipykernel
 kagglehub
+pymupdf
