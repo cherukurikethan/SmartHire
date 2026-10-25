@@ -1,0 +1,26 @@
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model files
+models/*.joblib
+models/*.pkl
+
+# Datasets
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
